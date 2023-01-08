@@ -1,0 +1,13 @@
+<!--pages/list1/lists1.wxml-->
+<!-- 轮播图结构-->
+<swiper class="swiper-container" indicator-dots autoplay interval="2000" circular>
+  <swiper-item>
+    <view class="item">A</view>
+  </swiper-item>
+  <swiper-item>
+    <view class="item">B</view>
+  </swiper-item>
+  <swiper-item>
+    <view class="item">C</view>
+  </swiper-item>
+</swiper>
